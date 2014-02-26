@@ -1,0 +1,2 @@
+shopp-hosted-module
+===================
